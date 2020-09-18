@@ -1,2 +1,0 @@
-minor_changes:
-    - Use existing Web Services Proxy storage system identifier when one is already created and one is not provided in the inventory.

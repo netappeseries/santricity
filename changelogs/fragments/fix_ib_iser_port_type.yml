@@ -1,2 +1,0 @@
-bug_fixes:
-    - Fix check_port_type method for ib iser when ib is the port type.

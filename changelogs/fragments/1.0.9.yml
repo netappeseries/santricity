@@ -1,2 +1,0 @@
-release_summary: |
-    This release focused on providing volume details to through the netapp_volumes_by_initiators in the na_santricity_facts module, improving on the nar_santricity_common role storage system API information and resolving issues.

@@ -1,2 +1,0 @@
-minor_changes:
-    - Add storage pool information to the volume_by_initiator facts.

@@ -1,2 +1,0 @@
-minor_changes:
-    - Increased the storage system discovery connection timeouts to 30 seconds to prevent systems from not being discovered over slow connections.

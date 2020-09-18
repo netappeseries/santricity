@@ -1,2 +1,0 @@
-minor_changes:
-    - Add storage system not found exception to the common role's build_info task.

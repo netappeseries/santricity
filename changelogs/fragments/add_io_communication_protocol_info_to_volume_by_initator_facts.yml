@@ -1,2 +1,0 @@
-minor_changes:
-    - Add host_types, host_port_protocols, host_port_information, hostside_io_interface_protocols to netapp_volumes_by_initiators in the na_santricity_facts module.
