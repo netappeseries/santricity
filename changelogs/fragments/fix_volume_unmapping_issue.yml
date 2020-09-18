@@ -1,0 +1,2 @@
+bug_fixes:
+    - Fix na_santricity_lun_mapping unmapping issue; previously mapped volumes failed to be unmapped.

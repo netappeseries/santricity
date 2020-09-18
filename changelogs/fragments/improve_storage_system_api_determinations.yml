@@ -1,0 +1,2 @@
+minor_changes:
+    - Improve nar_santricity_common storage system api determinations; attempts to discover the storage system using the information provided in the inventory before attempting to search the subnet.

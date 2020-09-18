@@ -1,0 +1,2 @@
+minor_changes:
+    - Utilize eseries_iscsi_iqn before searching host for iqn in nar_santricity_host role.
